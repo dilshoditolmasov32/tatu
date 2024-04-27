@@ -1,0 +1,61 @@
+.hero-page {
+  background-color: #e6e6e6;
+  padding-top: 275px;
+  padding-bottom: 230px;
+}
+
+.hero-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+select {
+  background: none;
+}
+
+.hero-section-text h6 {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: Poppins;
+  line-height: 24px;
+  letter-spacing: 0.47999998927116394px;
+  text-align: left;
+  color: #212529;
+}
+
+.hero-section-text h6 span {
+  color: #f53e32;
+}
+
+.hero-section-text h2 {
+  width: 522px;
+  font-family: Arial;
+  font-size: 55px;
+  font-weight: 900;
+  line-height: 68px;
+  letter-spacing: 0.47999998927116394px;
+  text-align: left;
+  color: #000;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+.desc {
+  max-width: 485px;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 26.25px;
+  letter-spacing: 0.48px;
+  text-align: left;
+  color: #7a7a7a;
+  margin-bottom: 48px;
+  margin-top: 22px;
+  font-family: Poppins;
+}
+
+.car {
+  width: 550px;
+  height: auto;
+  border-radius: 10px;
+}
